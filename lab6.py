@@ -2,7 +2,7 @@ import numpy as np
 import random
 
 print("=" * 70)
-print("HOPFIELD NETWORK - COHERENT IMPLEMENTATION")
+print("HOPFIELD NETWORK")
 print("=" * 70)
 
 class HopfieldNetwork:
@@ -175,6 +175,4 @@ print("• City constraints: Each city visited once")
 print("• Position constraints: Each position has one city") 
 print("• Distance minimization: Shortest total tour")
 
-print("\n" + "=" * 70)
-print("ALL PROBLEMS COMPLETED - COHERENT WITH REPORT")
 print("=" * 70)
